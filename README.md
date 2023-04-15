@@ -7,7 +7,7 @@ Aplicación Java Web, realizada con el generador de código Duende [duende.ejerc
 Esta aplicación permite gestionar una agenda telefónica con datos de contactos personales y empresas, y ha sido creada como demostración de uso
 de la herramienta generadora de código Duende.
 
-El proyecto de la aplicación está realizado con Spring Boot 2.7. e IntelliJ
+El proyecto de la aplicación está realizado con Spring Boot 2.7. e Spring Tool
 
 ## Acceso
 
